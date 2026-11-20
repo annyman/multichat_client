@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+*.o
+multichat_client
+tests/test_core
+tests
+build
